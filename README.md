@@ -99,7 +99,7 @@ traffic-signal-control/
 |   +-- utils.py           # SUMO network builders, XML helpers
 |
 +-- notebooks/
-|   +-- 01_SUMO_RL_Foundation.ipynb
+|   +-- 01_SUMO-RL Integration & PPO Training.ipynb
 |   +-- 02_Noise_Vision_Simulation.ipynb
 |   +-- 03_MARL_MAPPO.ipynb
 |   +-- 04_OSM_Final.ipynb
