@@ -3,9 +3,6 @@
 Adaptive traffic signal control using Multi-Agent Reinforcement Learning (MARL),
 trained and evaluated in SUMO across synthetic and real-world OpenStreetMap networks.
 
-Implements and extends the co-simulation framework proposed in:
-> Azfar, T. & Ke, R. (2024). *Traffic Co-Simulation Framework Empowered by
-> Infrastructure Camera Sensing and Reinforcement Learning*. arXiv:2412.03925
 
 ---
 
