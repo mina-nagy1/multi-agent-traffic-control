@@ -1,0 +1,11 @@
+eclipse-sumo
+traci
+sumolib
+gymnasium>=0.29
+stable-baselines3[extra]>=2.0
+torch>=2.0
+numpy
+matplotlib
+pandas
+requests
+tqdm
